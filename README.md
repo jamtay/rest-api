@@ -14,13 +14,11 @@ Set up db by
  **TODO**
  
  - Learn about imports (https://tour.golang.org/basics/10 - learn about imports and rename things properly)
- - Don't use hex as endpoint for {id}
  - find out how to do unit tests
- - deploy somewhere
  
  
  **Up To here in Go tutorial**
- https://tour.golang.org/concurrency/4
+ https://tour.golang.org/concurrency/11
  **Things learnt**
  
  - No need for brackets in `for` and `if`
