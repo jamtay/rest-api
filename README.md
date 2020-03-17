@@ -1,3 +1,5 @@
+Simple golanf project for help learning go when building rest apis
+
 run `go build && ./rest-api` from rest-api directory
 
 
